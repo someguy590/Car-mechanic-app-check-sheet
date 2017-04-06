@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">Check Sheet</string>
+
+    <!-- general labels -->
+    <!-- general color code labels-->
+    <string name="general_color_code_green">CHECKED AND OK</string>
+    <string name="general_color_code_yellow">FUTURE ATTENTION</string>
+    <string name="general_color_code_red">IMMEDIATE ATTENTION</string>
+
+    <!-- wheel labels -->
+    <string name="left_front_wheel">LF</string>
+    <string name="right_front_wheel">RF</string>
+    <string name="left_rear_wheel">LR</string>
+    <string name="right_rear_wheel">RR</string>
+
+    <!-- section labels -->
+    <!-- section 1 labels -->
+    <string name="form_title">MULTI-POINT INSPECTION</string>
+    <string name="name">Name:</string>
+    <string name="mileage">Mileage:</string>
+    <string name="year_make_model">Year/Make/Model:</string>
+    <string name="email">Email:</string>
+    <string name="license">License:</string>
+    <string name="vin">VIN:</string>
+    <string name="ro">RO#:</string>
+
+    <!-- section 2 item labels -->
+    <string name="interior_exterior">INTERIOR/EXTERIOR</string>
+    <string name="note_damage">NOTE ANY EXISTING BODY DAMAGE</string>
+    <string name="exterior_body">Exterior Body</string>
+    <string name="windshield_glass">Windshield/Glass</string>
+    <string name="wipers">Wipers</string>
+    <string name="lights_head_brake_turn">Lights (Head, Brake, Turn)</string>
+    <string name="interior_lights">Interior Lights</string>
+    <string name="ac_operation">AC Operation</string>
+    <string name="heating">Heating</string>
+
+    <!-- section 3 item labels -->
+    <string name="underhood">UNDERHOOD</string>
+    <string name="engine_oil">Engine Oil</string>
+    <string name="brake_fluid">Brake Fluid</string>
+    <string name="power_steering_fluid">Power Steering Fluid</string>
+    <string name="washer_fluid">Washer Fluid</string>
+    <string name="belts_hoses">Belts &amp; Hoses</string>
+    <string name="antifreeze_coolant">Antifreeze/Coolant</string>
+    <string name="air_filter">Air Filter</string>
+    <string name="cabin_filter">Cabin Filter</string>
+    <string name="fuel_filter">Fuel Filter</string>
+    <string name="spark_plugs_wires">Spark Plugs/Wires</string>
+    <string name="battery_charge">Battery Charge</string>
+    <string name="battery_condition">Battery Condition</string>
+    <string name="cables_connections">Cables &amp; Connections</string>
+
+    <!-- section 4 item labels-->
+    <string name="under_vehicle">UNDER VEHICLE</string>
+    <string name="brakes_pads_shoes">Brakes (Pads/Shoes)</string>
+    <string name="brake_lines_hoses">Brake Lines/Hoses</string>
+    <string name="steering_system">Steering System</string>
+    <string name="shocks_struts">Shocks &amp; Struts</string>
+    <string name="driveline_axles_cv_shaft">Driveline (Axles / CV Shaft)</string>
+    <string name="exhaust_system">Exhaust System</string>
+    <string name="fuel_lines_hoses">Fuel Lines &amp; Hoses</string>
+    <string name="rear_differential_fluid_level_condition">Rear Differential Fluid Level &amp; Condition</string>
+
+    <!-- section 5 item labels -->
+    <string name="tires">TIRES</string>
+    <string name="thread_depth">THREAD DEPTH</string>
+    <string name="tire_color_code_green">7/32" or greater</string>
+    <string name="tire_color_code_yellow">3/32" to 6/32"</string>
+    <string name="tire_color_code_red">2/32" or less</string>
+
+    <!-- section 6 item labels -->
+    <string name="brakes">BRAKES</string>
+    <string name="brake_pads_shoes">BRAKE PADS/SHOES</string>
+    <string name="brake_color_code_green">Over 5 mm (Disk) or 2 mm (Drum)</string>
+    <string name="brake_color_code_yellow">3-5 mm (Disk) or 1.01 - 2 mm (Drum)</string>
+    <string name="brake_color_code_red">Less than 3 mm (Disk) or 1 mm (Drum)</string>
+
+    <!-- section 7 item labels -->
+    <string name="comments">Comments:</string>
+    <string name="inspected_by">Inspected by:</string>
+    <string name="date">Date:</string>
+
+
+</resources>
